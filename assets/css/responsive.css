@@ -1,0 +1,717 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1449px) {
+
+    .header-menu li a {
+        font-size: 29px;
+      }
+      .header-logo img {
+        max-width: 100px;
+      }
+      .header-menu li {
+        margin-left: 30px;
+      }
+      .header-socail a {
+        font-size: 22px;
+        height: 45px;
+        width: 45px;
+      }
+      .header-text a {
+        font-size: 30px;
+      }
+      .wel-top-img img {
+        max-width: 400px;
+      }
+      .single-wel h3 {
+        font-size: 30px;
+      }
+      .single-wel p {
+        font-size: 16px;
+        margin-bottom: 0 !important;
+      }
+      .wel-mid {
+        display: block;
+      }
+      .single-wel h3::before {
+        display: none;
+      }
+      .wel-mid {
+        display: none;
+      }
+      .bonn {
+        display: none;
+      }
+      .wel-left.right {
+        padding: 0;
+      }
+      .single-wel h3 {
+        text-align: left !important;
+        padding: 0 !important;
+      }
+      .single-wel {
+        margin-bottom: 45px;
+      }
+    
+      .welcome-area {
+        padding-bottom: 288px;
+      }
+      .brok-fl {
+        height: 79%;
+      }
+      .brok-fl h3 {
+        font-size: 97px;
+        line-height: 108px;
+      }.broken-area {
+	margin-top: -306px;
+}
+      .single-brok-input label {
+        font-size: 40px;
+        margin-right: 50px;
+      }
+      .single-brok-input input {
+        height: 50px;
+        width: 150px;
+      }
+      .brok-btn a {
+        font-size: 46px;
+        height: 116px;
+        margin-bottom: 6px;
+      }
+      .brok-btn {
+        width: 74%;
+      }
+      .last-brok-text p {
+        font-size: 25px;
+      }
+      .brok-fl {
+        padding-bottom: 50px;
+      }
+      .faq-title h3 {
+        font-size: 184px;
+      }
+      .faq-area {
+        padding: 0 83px;
+        padding-bottom: 41px;
+      }
+      .faq-fl button {
+        font-size: 46px;
+        height: 100px;
+      }
+      .card-body {
+        font-size: 25px;
+      }
+      .card {
+        margin-bottom: 32px;
+      }
+      .footer-text p {
+        font-size: 22px;
+      }
+      .footer-area {
+        height: 127px;
+      }
+
+
+
+
+
+
+
+      .se {
+        font-size: 42px !important;
+      }
+      .se2 {
+        font-size: 61px !important;
+      }
+      .se4 {
+        font-size: 77px !important;
+      }
+      .se5 {
+        font-size: 107px !important;
+      }
+      .s5 {
+        font-size: 78px !important;
+      }
+
+.se3 {
+  font-size: 37px !important;
+}
+
+
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+    .header-menu li a {
+        font-size: 29px;
+      }
+      .header-logo img {
+        max-width: 100px;
+      }
+      .header-menu li {
+        margin-left: 30px;
+      }
+      .header-socail a {
+        font-size: 22px;
+        height: 45px;
+        width: 45px;
+      }
+      .header-text a {
+        font-size: 30px;
+      }
+      .wel-top-img img {
+        max-width: 400px;
+      }
+      .single-wel h3 {
+        font-size: 30px;
+      }
+      .single-wel p {
+        font-size: 16px;
+        margin-bottom: 0 !important;
+      }
+      .wel-mid {
+        display: block;
+      }
+      .single-wel h3::before {
+        display: none;
+      }
+      .wel-mid {
+        display: none;
+      }
+      .bonn {
+        display: none;
+      }
+      .wel-left.right {
+        padding: 0;
+      }
+      .single-wel h3 {
+        text-align: left !important;
+        padding: 0 !important;
+      }
+      .single-wel {
+        margin-bottom: 45px;
+      }
+     
+      .welcome-area {
+        padding-bottom: 288px;
+      }
+      .brok-fl {
+        height: 79%;
+      }
+      .brok-fl h3 {
+        font-size: 84px;
+        padding-right: 92px;
+      }
+      .single-brok-input label {
+        font-size: 30px;
+        margin-right: 50px;
+      }
+      .single-brok-input input {
+        height: 50px;
+        width: 150px;
+      }
+      .brok-btn a {
+        font-size: 29px;
+        height: 77px;
+        margin-bottom: 6px;
+      }
+      .brok-btn {
+        width: 57%;
+      }
+      .last-brok-text p {
+        font-size: 19px;
+      }
+      .brok-fl {
+        padding-bottom: 50px;
+      }.broken-area {
+	position: relative;
+	height: 100%;
+	margin-top: -259px;
+	background: #3A0400;
+}
+      .faq-title h3 {
+        font-size: 129px;
+        margin-bottom: 28px;
+      }
+      .faq-area {
+        padding: 0 83px;
+        padding-bottom: 41px;
+      }
+      .faq-fl button {
+        font-size: 35px;
+        height: 86px;
+      }
+      .card-body {
+        font-size: 20px;
+      }
+      .card {
+        margin-bottom: 32px;
+      }
+      .footer-text p {
+        font-size: 18px;
+        margin: 0;
+      }
+      .footer-area {
+        height: 127px;
+      }
+  
+.single-brok-input {
+  margin-bottom: 20px;
+}
+.single-brok-input:nth-child(2) {
+  margin-bottom: 23px;
+}
+
+
+
+
+
+
+.se {
+  font-size: 32px !important;
+}
+.se2 {
+  font-size: 47px !important;
+}
+.se4 {
+  font-size: 57px !important;
+}
+.se5 {
+  font-size: 107px !important;
+}
+.s5 {
+  font-size: 60px !important;
+}
+
+.se3 {
+font-size: 28px !important;
+}
+
+
+
+
+
+
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .header-menu li a {
+        font-size: 18px;
+      }
+      .header-logo img {
+        max-width: 73px;
+      }
+      .header-menu li {
+        margin-left: 15px;
+      }
+      .header-socail a {
+        font-size: 16px;
+        height: 36px;
+        width: 36px;
+        margin-left: 8px;
+      }
+      .header-text a {
+        font-size: 18px;
+      }
+      .wel-top-img img {
+        max-width: 283px;
+      }
+      .single-wel h3 {
+        font-size: 25px;
+      }
+      .single-wel p {
+        font-size: 16px;
+        margin-bottom: 0 !important;
+      }
+      .wel-mid {
+        display: block;
+      }
+      .single-wel h3::before {
+        display: none;
+      }
+      .wel-mid {
+        display: none;
+      }
+      .bonn {
+        display: none;
+      }
+      .wel-left.right {
+        padding: 0;
+      }
+      .single-wel h3 {
+        text-align: left !important;
+        padding: 0 !important;
+      }
+      .single-wel {
+        margin-bottom: 45px;
+      }
+     
+      .welcome-area {
+        padding-bottom: 364px;
+        padding-left: 15px;
+        padding-right: 15px;
+      }
+      .brok-fl {
+        height: 79%;
+      }
+      .brok-fl h3 {
+        font-size: 55px;
+        padding-right: 92px;
+      }
+      .single-brok-input label {
+        font-size: 24px;
+        margin-right: 27px;
+      }
+      .single-brok-input input {
+        height: 36px;
+        width: 118px;
+      }
+      .brok-btn a {
+        font-size: 23px;
+        height: 55px;
+        margin-bottom: 6px;
+      }
+      .brok-btn {
+        width: 48%;
+      }
+      .last-brok-text p {
+        font-size: 16px;
+      }
+      .brok-fl {
+        padding-bottom: 50px;
+      }
+      .faq-title h3 {
+        font-size: 93px;
+        margin-bottom: 28px;
+      }
+      .faq-area {
+        padding: 0 15px;
+        padding-bottom: 41px;
+      }
+      .faq-fl button {
+        font-size: 29px;
+        height: 77px;
+      }
+      .card-body {
+        font-size: 20px;
+      }
+      .card {
+        margin-bottom: 15px;
+      }
+      .footer-text p {
+        font-size: 15px;
+        margin: 0;
+      }
+      .footer-area {
+        height: 127px;
+      }
+  
+.single-brok-input {
+  margin-bottom: 20px;
+}
+.single-brok-input:nth-child(2) {
+  margin-bottom: 23px;
+}
+
+.hero-img2 {
+	margin: 0;
+}
+
+
+
+
+
+.se {
+  font-size: 29px !important;
+}
+.se2 {
+  font-size: 43px !important;
+}
+.se4 {
+  font-size: 52px !important;
+}
+.se5 {
+  font-size: 107px !important;
+}
+.s5 {
+  font-size: 54px !important;
+}
+
+.se3 {
+font-size: 28px !important;
+}
+
+
+.faq-fl button img {
+  max-width: 30px;
+  right: 21px;
+}
+
+
+
+
+
+}
+ 
+
+/* SM Small Device :320px. */
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+    .header-menu li a {
+        font-size: 16px;
+      }
+      .header-logo img {
+        max-width: 51px;
+      }
+      .header-menu li {
+        margin-left: 15px;
+      }
+      .header-socail a {
+        font-size: 16px;
+        height: 36px;
+        width: 36px;
+        margin-left: 8px;
+      }
+      .header-text a {
+        font-size: 18px;
+      }
+      .wel-top-img img {
+        max-width: 187px;
+      }
+      .single-wel h3 {
+        font-size: 25px;
+      }
+      .single-wel p {
+        font-size: 16px;
+        margin-bottom: 0 !important;
+      }
+      .wel-mid {
+        display: block;
+      }
+      .single-wel h3::before {
+        display: none;
+      }
+      .wel-mid {
+        display: none;
+      }
+      .bonn {
+        display: none;
+      }
+      .wel-left.right {
+        padding: 0;
+      }
+      .single-wel h3 {
+        text-align: left !important;
+        padding: 0 !important;
+      }
+      .single-wel {
+        margin-bottom: 45px;
+      }
+     
+      .welcome-area {
+        padding-bottom: 0;
+        padding-left: 0;
+        padding-right: 0;
+        margin-top: -175px;
+      }
+      .brok-fl {
+        height: 77%;
+      }
+      .brok-fl h3 {
+        font-size: 34px;
+        padding-right: 36px;
+        line-height: 30px;
+      }
+      .single-brok-input label {
+        font-size: 19px;
+        margin-right: 21px;
+        /*! margin-bottom: 10px; */
+      }
+      .single-brok-input input {
+        height: 25px;
+        width: 83px;
+      }
+      .brok-btn a {
+        font-size: 17px;
+        height: 44px;
+        margin-bottom: 6px;
+      }
+  
+.wel-top-img {
+  display: none;
+}
+.wel-left {
+  display: none;
+}
+.wel-mid {
+  display: none;
+}
+.wel-fl img {
+  width: 100%;
+  display: block;
+}
+
+.hero-area {
+  background: #000000;
+}
+      .brok-btn {
+        width: 78%;
+      }
+      .last-brok-text p {
+        font-size: 12px;
+      }
+     
+  
+.last-brok-text p:before {
+  width: 100%;
+}
+.last-brok-text {
+  margin-top: 17px;
+}
+.single-inpu a {
+  font-size: 14px;
+  margin: 0 7px;
+}
+.brok-title {
+  margin-bottom: 74px;
+}
+      .faq-title h3 {
+        font-size: 51px;
+        margin-bottom: 19px;
+      }
+      .faq-area {
+        padding: 0 15px;
+        padding-bottom: 41px;
+        padding-top: 180px;
+      }
+      .faq-fl button {
+        font-size: 11px;
+        height: 48px;
+        white-space: initial;
+      }
+      .card-body {
+        font-size: 12px;
+      }
+      .card {
+        margin-bottom: 15px;
+        border-radius: 25px;
+      }
+      .footer-text p {
+        font-size: 15px;
+        margin: 0;
+      }
+      .footer-area {
+        height: 127px;
+      }
+  
+.single-brok-input {
+  margin-bottom: 20px;
+  /*! display: block; */
+  text-align: center;
+}
+.single-brok-input:nth-child(2) {
+  margin-bottom: 23px;
+}
+
+.header-socail {
+    display: none;
+  }
+  .header-text {
+    display: none;
+  }
+  .hero-img2 {
+    margin: 0;
+    height: 100%;
+  }
+  .hero-area {
+    padding-bottom: -1px;
+    z-index: 9;
+  }
+  .hero-area span {
+    bottom: 177px;
+    padding: 0 11px;
+  }
+  .wel-fl {
+    display: block;
+    z-index: 9;
+    position: relative;
+  }
+  .wel-left {
+    width: 100%;
+  }
+  .broken-area {
+    margin-top: -79px;
+    padding-bottom: 0;
+    background: #380400;
+  }
+  .single-inpu {
+    justify-content: center;
+  }
+  .last-brok-text p img {
+    max-width: 23px;
+  }
+  .faq-fl button img {
+    max-width: 12px;
+    right: 9px;
+  }
+  .footer-fl .header-socail {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+  }
+  .footer-fl {
+    flex-wrap: wrap;
+  }
+  .footer-text {
+    position: unset;
+    text-align: center;
+    margin-top: 10px;
+  }
+
+
+
+  .se {
+    font-size: 11px !important;
+  }
+  .se2 {
+    font-size: 16px !important;
+  }
+  .se4 {
+    font-size: 19px !important;
+  }
+  .se5 {
+    font-size: 107px !important;
+  }
+  .s5 {
+    font-size: 20px !important;
+  }
+  
+  .se3 {
+  font-size: 10px !important;
+  }
+  
+  
+  .faq-fl button img {
+    max-width: 17px;
+    right: 10px;
+  }
+  
+
+
+
+
+
+
+
+}
+
+
+
+
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+ 
+}
